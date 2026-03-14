@@ -23,10 +23,9 @@ To sync tokens with your codebase, install the Rez CLI:
 npm install -g @Design-System-Plugin/cli
 Then initialize in your project:
 
-# terminal
 
 cd your-project
 Design-System-Plugin init
 
-# This creates a Design-System-Plugin.config.json file
-# with your export settings
+This creates a Design-System-Plugin.config.json file
+with your export settings
