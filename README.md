@@ -9,12 +9,16 @@ The easiest way to install Design-System-Plugin is directly from the Figma Commu
 
 1
 Open Figma and go to Community > Plugins
+
 2
 Search for "Design-System-Plugin" in the search bar
+
 3
 Click "Install" on the Design-System-Plugin plugin page
+
 4
 Open any file and run Rez from Plugins > Design-System-Plugin
+
 CLI Installation (for token sync)
 To sync tokens with your codebase, install the Rez CLI:
 
