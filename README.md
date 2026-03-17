@@ -1,35 +1,3 @@
-# Design-System-Plugin
+# heystranger
 
-
-Installation
-Get Design-System-Plugin up and running in your Figma workspace in under a minute.
-
-Install from Figma Community
-The easiest way to install Design-System-Plugin is directly from the Figma Community page.
-
-1
-Open Figma and go to Community > Plugins
-
-2
-Search for "Design-System-Plugin" in the search bar
-
-3
-Click "Install" on the Design-System-Plugin plugin page
-
-4
-Open any file and run Rez from Plugins > Design-System-Plugin
-
-CLI Installation (for token sync)
-To sync tokens with your codebase, install the Rez CLI:
-
-# terminal
-
-npm install -g @Design-System-Plugin/cli
-Then initialize in your project:
-
-
-cd your-project
-Design-System-Plugin init
-
-This creates a Design-System-Plugin.config.json file
-with your export settings
+Hey Stranger is a shared, anonymous infinite canvas freedom wall where visitors can place sticky notes, draw freely, type text, paste images, add GIFs, drop emoji stickers, and connect items with arrows. Every visitor gets a randomized gentle identity and can see contributions from all other visitors. The wall is organized into 4 category pages, each representing a different emotional space.
